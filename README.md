@@ -1,2 +1,2 @@
-# WanderWords---demo
+# WanderWords-demo
 Bachelor's Thesis
