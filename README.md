@@ -1,2 +1,2 @@
 # WanderWords-demo
-Bachelor's Thesis
+WanderWords is my Bachelor's Thesis. It is a game that falls under the simulation and educational exploration genres, blending puzzle and adventure elements, designed for exploration and language learning. Set in a vibrant town filled with interactive characters, the player's goal is to build a basic French vocabulary by engaging with urban elements and NPCs. Conversations occur in French, and players can click on unfamiliar words to save them in a virtual notebook. Additionally, players can interact with objects to learn their French names. The game also features mini-games to reinforce vocabulary.
